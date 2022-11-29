@@ -1,0 +1,104 @@
+header{
+    background: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.logo_all{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.logo_web{
+    color: #2196F3;
+}
+
+header li:hover{
+    color: #2196F3;
+}
+
+.main{
+    background: #2F303A;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 44px;
+}
+
+main button{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 16px;
+    background: #2196F3;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+main h3{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+}
+
+main p{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    color: #757575;
+}
+
+main h2{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    color: #212121;
+}
+
+.team{
+    background: #F5F4FA;
+} 
+
+.team h4{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #212121;
+}
+
+.team p{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+footer{
+    background: #2F303A;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+.logo_footer{
+    color:#FFFFFF;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+}
+
+footer li:first-child{
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+}
+
+footer li{
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+}
